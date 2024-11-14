@@ -1,0 +1,44 @@
+h3{
+    color: #1877f2;
+    font-size: 30px;
+}
+ 
+.log{
+text-align: center;
+background-color: #1877f2;
+padding: 5px;
+}
+
+.link{
+    text-align: center;
+}
+
+.input{
+    height: 200px;
+    width: 200px;
+    border: 1px solid white;
+   padding: 10px 20px 60px 10px ;
+   text-align: center;
+   border-radius: 20px;
+   margin: 05px 0px 10px 500px;
+   background-color:white;
+   
+
+}
+.center{
+    text-align: center;
+}
+
+
+.bilal{
+    color: white;
+    background-color: green;
+    padding: 10px;
+}
+input{
+    padding: 10px 20px 10px;
+}
+body{
+    background-color:lightgray;
+}
+    

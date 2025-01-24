@@ -121,7 +121,7 @@ a{
 
 .create{
     position: relative;
-    bottom: 20px;
+    bottom: 0px;
     width: 150px;
     height: 40px;
     color: white;
